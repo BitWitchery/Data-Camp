@@ -1,0 +1,25 @@
+Warum braucht man Listen?
+
+Glückwunsch! An diesem Punkt des Kurses bist du bereits vertraut mit:
+
+    Vektoren (eindimensionale Arrays): können Zahlen, Zeichenketten oder logische Werte enthalten. 
+    Die Elemente in einem Vektor haben alle denselben Datentyp.
+    
+    Matrizen (zweidimensionale Arrays): können Zahlen, Zeichenketten oder logische Werte enthalten. 
+    Die Elemente in einer Matrix haben alle denselben Datentyp.
+    
+    Dataframes (zweidimensionale Objekte): können Zahlen, Zeichenketten oder logische Werte enthalten. 
+    Innerhalb einer Spalte haben alle Elemente denselben Datentyp, aber verschiedene Spalten können 
+    unterschiedliche Datentypen haben.
+
+Eine Liste in R ähnelt deiner To-Do-Liste bei der Arbeit oder in der Schule: Die verschiedenen Punkte 
+auf der Liste unterscheiden sich höchstwahrscheinlich durch ihre Länge, ihre Eigenschaften und die Art 
+der zu erledigenden Aufgabe.
+
+Eine Liste in R ermöglicht es, eine Vielzahl von Objekten unter einem Namen (dem Namen der Liste) 
+geordnet zu erfassen. Diese Objekte können zum Beispiel Matrizen, Vektoren, Dataframes oder sogar 
+weitere Listen sein. Es ist nicht einmal erforderlich, dass diese Objekte in irgendeiner Weise 
+miteinander verbunden sind.
+
+Man könnte sagen, dass eine Liste eine Art Superdatentyp ist: Du kannst praktisch jede Information 
+in ihr speichern!
